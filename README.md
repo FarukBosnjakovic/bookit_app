@@ -1,2 +1,3 @@
-# bookit_app
-BookIt - Restaurant Reservation App
+# bookit
+
+A new Flutter project.
